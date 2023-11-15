@@ -1,0 +1,6 @@
+interfaz con boostrap.
+input tipo numero.
+boton agregar - agrega el numero a una lista.
+
+abajo, un boton que procesa.
+la suma total, el promedio, el maximo y el minimo.
